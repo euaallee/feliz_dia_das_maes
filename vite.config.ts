@@ -8,6 +8,7 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
+  base: "/feliz_dia_das_maes",
   server: {
     host: "0.0.0.0",
     port: 1984
